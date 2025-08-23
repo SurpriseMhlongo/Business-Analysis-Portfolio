@@ -1,0 +1,43 @@
+theme-park-ecommerce-ba-analysis/
+│
+├── 01_Project_Overview/
+│   ├── 01_Problem_Statement.md
+│   ├── 02_Business_Case.md
+│   └── 03_Stakeholder_Map.png
+│
+├── 02_Strategy_And_Scope/
+│   ├── 01_Vision_Mission.md
+│   ├── 02_SWOT_Analysis.md
+│   └── 03_Scope_Canvas.pdf
+│
+├── 03_Process_Analysis/
+│   ├── 01_AsIs_Process.png
+│   ├── 02_ToBe_BPMN.pdf
+│   └── 03_Process_Narrative.md
+│
+├── 04_Data_Analysis/
+│   ├── 01_Conceptual_ERD.pdf
+│   ├── 02_Data_Flow_Diagram_L2.pdf
+│   └── 03_Data_Dictionary.xlsx
+│
+├── 05_Solution_Design/
+│   ├── 01_User_Stories.md
+│   ├── 02_User_Personas.pdf
+│   └── 03_Wireframes/ (Optional)
+│       └── ecommerce_wireframe.pdf
+│
+├── 06_Risk_And_ROI/
+│   ├── 01_Risk_Register.xlsx
+│   ├── 02_ROI_Analysis.md
+│   └── 03_Mitigation_Strategies.md
+│
+├── 07_Presentation/
+│   ├── Executive_Presentation.pdf
+│   └── Executive_Presentation.pptx
+│
+├── 08_Appendices/
+│   ├── 01_Glossary.md
+│   ├── 02_Assumptions.md
+│   └── 03_References.md
+│
+└── README.md
