@@ -15,7 +15,8 @@ To create a compelling omnichannel strategy that diversifies revenue, boosts off
 - **Executive Presentation**
 
 ## How to Navigate
-Review the deliverables sequentially by following the numbered folders from `01_Project_Overview/` to `07_Presentation/`.
+Review the deliverables sequentially; the Presentation directory with pptx will give you a good overview
 
 ---
 *This analysis was conducted as a portfolio demonstration of business analysis capabilities.*
+
