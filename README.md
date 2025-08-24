@@ -8,7 +8,7 @@ This portfolio is a work in progress, demonstrating my practical skills in tools
 
 | Project | Domain | Key BA Skills Demonstrated | Status |
 | :--- | :--- | :--- | :--- |
-| [Theme Park E-Commerce & VR Integration](./theme-park-ecommerce-ba-analysis/) | Retail / Hospitality | Process Modeling, Data Analysis, ROI & Risk Mitigation | WIP |
+| [Theme Park E-Commerce & VR Integration](./E-Commerce%20BA%20Analysis)/) | Retail / Hospitality | Process Modeling, Data Analysis, ROI & Risk Mitigation | WIP |
 | *Project 2 Title* | *Domain* | *Skills* | *Planned* |
 | *Project 3 Title* | *Domain* | *Skills* | *Planned* |
 
